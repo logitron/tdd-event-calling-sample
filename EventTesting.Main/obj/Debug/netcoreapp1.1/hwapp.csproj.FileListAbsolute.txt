@@ -1,0 +1,16 @@
+/home/patrick/Projects/hwapp/bin/Debug/netcoreapp1.1/hwapp.deps.json
+/home/patrick/Projects/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.json
+/home/patrick/Projects/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.dev.json
+/home/patrick/Projects/hwapp/bin/Debug/netcoreapp1.1/hwapp.dll
+/home/patrick/Projects/hwapp/bin/Debug/netcoreapp1.1/hwapp.pdb
+/home/patrick/Projects/hwapp/obj/Debug/netcoreapp1.1/hwapp.AssemblyInfo.cs
+/home/patrick/Projects/hwapp/obj/Debug/netcoreapp1.1/hwapp.dll
+/home/patrick/Projects/hwapp/obj/Debug/netcoreapp1.1/hwapp.pdb
+/home/patrick/Projects/hwapp/hwapp.main/bin/Debug/netcoreapp1.1/hwapp.deps.json
+/home/patrick/Projects/hwapp/hwapp.main/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.json
+/home/patrick/Projects/hwapp/hwapp.main/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.dev.json
+/home/patrick/Projects/hwapp/hwapp.main/obj/Debug/netcoreapp1.1/hwapp.AssemblyInfo.cs
+/home/patrick/Projects/hwapp/hwapp.main/obj/Debug/netcoreapp1.1/hwapp.dll
+/home/patrick/Projects/hwapp/hwapp.main/obj/Debug/netcoreapp1.1/hwapp.pdb
+/home/patrick/Projects/hwapp/hwapp.main/bin/Debug/netcoreapp1.1/hwapp.dll
+/home/patrick/Projects/hwapp/hwapp.main/bin/Debug/netcoreapp1.1/hwapp.pdb

@@ -1,0 +1,8 @@
+/home/patrick/Projects/hwapp/EventTesting.Main/bin/Debug/netcoreapp1.1/EventTesting.Main.deps.json
+/home/patrick/Projects/hwapp/EventTesting.Main/bin/Debug/netcoreapp1.1/EventTesting.Main.runtimeconfig.json
+/home/patrick/Projects/hwapp/EventTesting.Main/bin/Debug/netcoreapp1.1/EventTesting.Main.runtimeconfig.dev.json
+/home/patrick/Projects/hwapp/EventTesting.Main/bin/Debug/netcoreapp1.1/EventTesting.Main.dll
+/home/patrick/Projects/hwapp/EventTesting.Main/bin/Debug/netcoreapp1.1/EventTesting.Main.pdb
+/home/patrick/Projects/hwapp/EventTesting.Main/obj/Debug/netcoreapp1.1/EventTesting.Main.AssemblyInfo.cs
+/home/patrick/Projects/hwapp/EventTesting.Main/obj/Debug/netcoreapp1.1/EventTesting.Main.dll
+/home/patrick/Projects/hwapp/EventTesting.Main/obj/Debug/netcoreapp1.1/EventTesting.Main.pdb
